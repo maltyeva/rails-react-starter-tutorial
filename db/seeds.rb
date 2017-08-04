@@ -12,25 +12,24 @@ Quote.delete_all
 Quote.create! (  
   [
     {
-      text: "Be yourself; everyone else is already taken.",
-      author: "Oscar Wilde"
+      text: "I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?",
+      author: "Morty"
     },
     {
-      text: "Two things are infinite: the universe and human stupidity; " \
-            "and I'm not sure about the universe.",
-      author: "Albert Einstein"
+      text: "Nobody exists on purpose. Nobody belongs anywhere. We're all going to die. Come watch TV.",
+      author: "Morty"
     },
     {
-      text: "So many books, so little time.",
-      author: "Frank Zappa"
+      text: "Listen, Morty, I hate to break it to you but what people call 'love' is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science",
+      author: "Rick Sanchez"
     },
     {
-      text: "Be the change that you wish to see in the world",
-      author: "Mahatma Gandhi"
+      text: "Wow, I really Cronenberged up the whole place, huh Morty? Just a bunch a Cronenbergs walkin' around",
+      author: "Rick Sanchez"
     },
     {
-      text: "If you tell the truth, you don't have to remember anything.",
-      author: "Mark Twain"
+      text: "Weddings are basically funerals with cake",
+      author: "Rick Sanchez"
     }
   ]
 )
